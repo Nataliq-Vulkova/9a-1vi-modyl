@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\периметър\bin\Debug\периметър.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\периметър\bin\Debug\периметър.exe
+C:\Users\1409-12\Desktop\Наталия 9а\периметър\bin\Debug\периметър.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\периметър\obj\Debug\периметър.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\периметър\obj\Debug\периметър.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\периметър\obj\Debug\периметър.exe
+C:\Users\1409-12\Desktop\Наталия 9а\периметър\obj\Debug\периметър.pdb

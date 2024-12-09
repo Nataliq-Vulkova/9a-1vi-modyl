@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\през цикъл\bin\Debug\през цикъл.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\през цикъл\bin\Debug\през цикъл.exe
+C:\Users\1409-12\Desktop\Наталия 9а\през цикъл\bin\Debug\през цикъл.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\през цикъл\obj\Debug\през цикъл.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\през цикъл\obj\Debug\през цикъл.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\през цикъл\obj\Debug\през цикъл.exe
+C:\Users\1409-12\Desktop\Наталия 9а\през цикъл\obj\Debug\през цикъл.pdb

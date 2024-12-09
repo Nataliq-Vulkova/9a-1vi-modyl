@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\зад_условие\зад_условие\obj\Debug\зад_условие.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\зад_условие\зад_условие\obj\Debug\зад_условие.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\зад_условие\зад_условие\bin\Debug\зад_условие.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\зад_условие\зад_условие\bin\Debug\зад_условие.exe
+C:\Users\1409-12\Desktop\Наталия 9а\зад_условие\зад_условие\bin\Debug\зад_условие.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\зад_условие\зад_условие\obj\Debug\зад_условие.exe
+C:\Users\1409-12\Desktop\Наталия 9а\зад_условие\зад_условие\obj\Debug\зад_условие.pdb

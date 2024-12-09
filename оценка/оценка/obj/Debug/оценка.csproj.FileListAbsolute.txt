@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\оценка\оценка\bin\Debug\оценка.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\оценка\оценка\bin\Debug\оценка.exe
+C:\Users\1409-12\Desktop\Наталия 9а\оценка\оценка\bin\Debug\оценка.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\оценка\оценка\obj\Debug\оценка.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\оценка\оценка\obj\Debug\оценка.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\оценка\оценка\obj\Debug\оценка.exe
+C:\Users\1409-12\Desktop\Наталия 9а\оценка\оценка\obj\Debug\оценка.pdb

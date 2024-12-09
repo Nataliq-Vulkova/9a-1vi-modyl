@@ -1,0 +1,7 @@
+C:\Users\1409-12\Desktop\Наталия 9а\Лице на трапец\bin\Debug\Лице на трапец.exe.config
+C:\Users\1409-12\Desktop\Наталия 9а\Лице на трапец\bin\Debug\Лице на трапец.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Лице на трапец\bin\Debug\Лице на трапец.pdb
+C:\Users\1409-12\Desktop\Наталия 9а\Лице на трапец\obj\Debug\Лице на трапец.csproj.AssemblyReference.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Лице на трапец\obj\Debug\Лице на трапец.csproj.CoreCompileInputs.cache
+C:\Users\1409-12\Desktop\Наталия 9а\Лице на трапец\obj\Debug\Лице на трапец.exe
+C:\Users\1409-12\Desktop\Наталия 9а\Лице на трапец\obj\Debug\Лице на трапец.pdb
